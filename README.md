@@ -87,9 +87,6 @@
 ## 界面展示
 
 ![](images/1.jpg)
-![](images/2.jpg)
-![](images/3.jpg)
-![](images/4.jpg)
 ![](images/5.jpg)
 ![](images/6.jpg)
 
@@ -98,6 +95,6 @@
 
 ## 获取完整源码 + 万字文档
 
-本仓库为项目介绍页。**完整前后端源码、数据库初始化脚本、万字项目文档**，请访问 [codekk.top](http://codekk.top) 获取。
+本仓库为项目介绍页。**完整前后端源码、数据库初始化脚本、万字项目文档**，请加微信 `kangkangcode`，或访问 [codekk.top](http://codekk.top) 获取。
 
 可作课程设计 / 毕业设计参考，支持远程部署调试。
